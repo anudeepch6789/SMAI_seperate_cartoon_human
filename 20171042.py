@@ -1,27 +1,10 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # Assignment 2
-# The objective of this assignment is to get you familiarizewith  the  problems  of  `classification`  and  `verification`with a popular problem space of `face`
-# 
-# This jupyter notebook is meant to be used in conjunction with the full questions in the assignment pdf.
-# 
-# ## Instructions
-# - Write your code and analyses in the indicated cells.
-# - Ensure that this notebook runs without errors when the cells are run in sequence.
-# - Do not attempt to change the contents of the other cells.
-# 
-# ## Allowed Libraries
-# - All libraries are allowed 
+
 # 
 # ## Datasets 
 # - 3 datasets are provided. Load the data from the drive [link](!https://drive.google.com/file/d/1ujsKv9W5eidb4TXt1pnsqwDKVDFtzZTh/view?usp=sharing).
-# - Unzip the downloaded file and store the files in a folder called `datasets`. Keep the `datasets` folder in the same directory as of the jupyter notebook 
-# 
-# ## Submission
-# - Ensure that this notebook runs without errors when the cells are run in sequence.
-# - Rename the notebook to `<roll_number>.ipynb` and submit ONLY the notebook file on moodle.
-# - Upload  the  notebook,  report  and  classification  results as a zip file to moodle. Name the zip file as `<rollnumber>_assignment2.zip`
 
 # In[3]:
 
